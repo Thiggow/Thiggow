@@ -1,4 +1,4 @@
-## Olá, seja bem vindo!
+## Hello, and welcome!
 
 <div align="center">
   <a href="https://github.com/Thiggow">
